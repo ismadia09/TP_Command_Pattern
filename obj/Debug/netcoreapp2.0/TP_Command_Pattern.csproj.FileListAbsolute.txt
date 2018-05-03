@@ -1,0 +1,11 @@
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/bin/Debug/netcoreapp2.0/TP_Command_Pattern.deps.json
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/bin/Debug/netcoreapp2.0/TP_Command_Pattern.runtimeconfig.json
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/bin/Debug/netcoreapp2.0/TP_Command_Pattern.runtimeconfig.dev.json
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/bin/Debug/netcoreapp2.0/TP_Command_Pattern.dll
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/bin/Debug/netcoreapp2.0/TP_Command_Pattern.pdb
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/obj/Debug/netcoreapp2.0/TP_Command_Pattern.csprojResolveAssemblyReference.cache
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/obj/Debug/netcoreapp2.0/TP_Command_Pattern.csproj.CoreCompileInputs.cache
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/obj/Debug/netcoreapp2.0/TP_Command_Pattern.AssemblyInfoInputs.cache
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/obj/Debug/netcoreapp2.0/TP_Command_Pattern.AssemblyInfo.cs
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/obj/Debug/netcoreapp2.0/TP_Command_Pattern.dll
+/Users/ismadia/Desktop/ESGI/DesignPattern/TP_Command_Pattern/obj/Debug/netcoreapp2.0/TP_Command_Pattern.pdb
