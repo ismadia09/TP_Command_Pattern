@@ -4,5 +4,6 @@ namespace TP_Command_Pattern
     public interface Order
     {
         void execute();
+        void unexecute();
     }
 }

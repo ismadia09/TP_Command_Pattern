@@ -17,6 +17,11 @@ namespace TP_Command_Pattern
         {
             zerStock.sell();
         }
+
+        public void unexecute()
+        {
+            zerStock.buy();
+        }
     
     }
 }
