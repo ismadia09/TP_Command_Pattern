@@ -33,28 +33,10 @@ namespace TP_Command_Pattern
 
         public void Add(Stock stock)
         {
-            string sql = "insert into stocks (ID, name, quantity, state) values ("+stock.getID()+",'"+ stock.getName()+"',"+ stock.getQuantity()+", '"+ stock.getState()+"')";
+            string sql = "insert into stocks (ID, name, quantity, state) values (" + stock.getID() + ",'" + stock.getName() + "'," + stock.getQuantity() + ", '" + stock.getState() + "')";
             SQLiteCommand command = new SQLiteCommand(sql, connection);
             command.ExecuteNonQuery();
-           // connection.theData.Add(newValue);
         }
-
-       /* public void Update(string oldValue, string newValue)
-        {
-            //var nbErased = connection.theData.RemoveAll(o => o.Equals(oldValue));
-            //for (int i = 0; i < nbErased; i++)
-                connection.theData.Add(newValue);
-        }
-
-        public int Delete(string valueToRemove)
-        {
-            return connection.theData.RemoveAll(o => o.Equals(valueToRemove));
-        }
-
-        public List<string> GetAll()
-        {
-            return connection.theData;
-        }*/
 
         public void Delete(Stock stock){
             string sql = "DELETE FROM stocks WHERE ID = "+stock.getID();
